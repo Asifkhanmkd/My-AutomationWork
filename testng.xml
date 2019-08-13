@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NopCommerceSuite">
+<listeners>
+<listener class-name="com.nopCommerce.utilities.Listeners"/>
+</listeners>
+<test name="CustomerTest">
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="com.nopCommerce.testcases.TC_LoginTest1"/>
+<class name="com.nopCommerce.testcases.TC_LoginTestDDT"/>
+<class name="com.nopCommerce.testcases.TC_AddNewCustomerTest"/>
+
+
+
+</classes>
+
+</test>
+
+</suite>
+
+	

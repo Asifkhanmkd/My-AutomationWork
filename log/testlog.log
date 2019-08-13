@@ -1,0 +1,605 @@
+2019-08-11 22:51:40,439 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:51:43,718 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:51:45,495 - nopCommerce -INFO - Email Entered
+2019-08-11 22:51:45,581 - nopCommerce -INFO - Password Entered
+2019-08-11 22:51:54,496 - nopCommerce -INFO - Submit button clicked
+2019-08-11 22:51:54,504 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 22:51:54,506 - nopCommerce -INFO - Test Passed
+2019-08-11 22:51:54,578 - nopCommerce -INFO - All windows closed
+2019-08-11 22:51:59,853 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:52:06,999 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:52:18,457 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 22:52:18,533 - nopCommerce -INFO - All windows closed
+2019-08-11 22:52:34,705 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:52:43,198 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:52:50,535 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 22:52:53,717 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 22:52:55,452 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 22:52:55,744 - nopCommerce -INFO - Random Email Entered
+2019-08-11 22:52:55,897 - nopCommerce -INFO - Password Entered
+2019-08-11 22:52:56,009 - nopCommerce -INFO - First Name Entered
+2019-08-11 22:52:56,090 - nopCommerce -INFO - Last Name entered
+2019-08-11 22:52:56,182 - nopCommerce -INFO - Gender Entered
+2019-08-11 22:52:56,319 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 22:52:56,514 - nopCommerce -INFO - Company Name Entered
+2019-08-11 22:52:56,602 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 22:52:56,691 - nopCommerce -INFO - Default role deleted
+2019-08-11 22:52:56,727 - nopCommerce -INFO - Customer role Entered
+2019-08-11 22:52:56,929 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 22:52:57,095 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 22:52:57,227 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 22:52:57,253 - nopCommerce -INFO - All windows closed
+2019-08-11 22:55:43,055 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:55:48,446 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:55:49,788 - nopCommerce -INFO - Email Entered
+2019-08-11 22:55:49,876 - nopCommerce -INFO - Password Entered
+2019-08-11 22:55:54,151 - nopCommerce -INFO - Submit button clicked
+2019-08-11 22:55:54,200 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 22:55:54,204 - nopCommerce -INFO - Test Passed
+2019-08-11 22:55:54,601 - nopCommerce -INFO - All windows closed
+2019-08-11 22:55:59,279 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:56:09,608 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:56:22,395 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 22:56:22,568 - nopCommerce -INFO - All windows closed
+2019-08-11 22:56:36,655 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:56:41,576 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:56:49,470 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 22:56:50,899 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 22:56:52,885 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 22:56:53,125 - nopCommerce -INFO - Random Email Entered
+2019-08-11 22:56:53,276 - nopCommerce -INFO - Password Entered
+2019-08-11 22:56:53,367 - nopCommerce -INFO - First Name Entered
+2019-08-11 22:56:53,473 - nopCommerce -INFO - Last Name entered
+2019-08-11 22:56:53,564 - nopCommerce -INFO - Gender Entered
+2019-08-11 22:56:53,707 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 22:56:53,845 - nopCommerce -INFO - Company Name Entered
+2019-08-11 22:56:53,931 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 22:56:54,044 - nopCommerce -INFO - Default role deleted
+2019-08-11 22:56:54,082 - nopCommerce -INFO - Customer role Entered
+2019-08-11 22:56:54,364 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 22:56:54,803 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 22:56:54,910 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 22:56:55,900 - nopCommerce -INFO - All windows closed
+2019-08-11 22:59:14,247 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:59:19,214 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 22:59:20,739 - nopCommerce -INFO - Email Entered
+2019-08-11 22:59:20,822 - nopCommerce -INFO - Password Entered
+2019-08-11 22:59:28,298 - nopCommerce -INFO - Submit button clicked
+2019-08-11 22:59:28,353 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 22:59:28,358 - nopCommerce -INFO - Test Passed
+2019-08-11 22:59:28,439 - nopCommerce -INFO - All windows closed
+2019-08-11 22:59:34,546 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 22:59:44,978 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:00:06,665 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:00:07,079 - nopCommerce -INFO - All windows closed
+2019-08-11 23:00:17,896 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:00:22,219 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:00:30,467 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:00:31,935 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:00:33,348 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:00:33,587 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:00:33,711 - nopCommerce -INFO - Password Entered
+2019-08-11 23:00:33,806 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:00:33,931 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:00:34,029 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:00:34,162 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:00:34,311 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:00:34,403 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:00:34,495 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:00:34,537 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:00:35,063 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:00:35,282 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:00:37,086 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:00:37,526 - nopCommerce -INFO - Test passed
+2019-08-11 23:00:37,532 - nopCommerce -INFO - All windows closed
+2019-08-11 23:26:30,796 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:26:33,677 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:26:35,096 - nopCommerce -INFO - Email Entered
+2019-08-11 23:26:35,178 - nopCommerce -INFO - Password Entered
+2019-08-11 23:26:40,772 - nopCommerce -INFO - Submit button clicked
+2019-08-11 23:26:40,800 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 23:26:40,804 - nopCommerce -INFO - Test Passed
+2019-08-11 23:26:40,906 - nopCommerce -INFO - All windows closed
+2019-08-11 23:26:47,256 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:26:54,287 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:27:06,906 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:27:07,033 - nopCommerce -INFO - All windows closed
+2019-08-11 23:27:18,045 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:27:22,027 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:27:31,273 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:27:34,026 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:27:35,310 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:27:35,526 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:27:35,646 - nopCommerce -INFO - Password Entered
+2019-08-11 23:27:35,734 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:27:35,829 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:27:35,919 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:27:36,049 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:27:36,205 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:27:36,300 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:27:36,395 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:27:36,433 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:27:36,583 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:27:36,790 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:27:38,598 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:27:38,918 - nopCommerce -INFO - Test passed
+2019-08-11 23:27:38,920 - nopCommerce -INFO - All windows closed
+2019-08-11 23:30:01,034 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:30:05,063 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:30:06,413 - nopCommerce -INFO - Email Entered
+2019-08-11 23:30:06,507 - nopCommerce -INFO - Password Entered
+2019-08-11 23:30:12,194 - nopCommerce -INFO - Submit button clicked
+2019-08-11 23:30:12,259 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 23:30:12,262 - nopCommerce -INFO - Test Passed
+2019-08-11 23:30:12,283 - nopCommerce -INFO - All windows closed
+2019-08-11 23:30:16,925 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:30:26,338 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:30:38,392 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:30:38,627 - nopCommerce -INFO - All windows closed
+2019-08-11 23:30:51,182 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:30:58,305 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:31:04,879 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:31:06,345 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:31:07,680 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:31:07,914 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:31:08,032 - nopCommerce -INFO - Password Entered
+2019-08-11 23:31:08,124 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:31:08,246 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:31:08,344 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:31:08,480 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:31:08,620 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:31:08,708 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:31:08,804 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:31:08,845 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:31:09,059 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:31:09,224 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:31:11,351 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:31:11,403 - nopCommerce -INFO - Test passed
+2019-08-11 23:31:11,406 - nopCommerce -INFO - All windows closed
+2019-08-11 23:34:56,300 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:35:06,432 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:35:08,292 - nopCommerce -INFO - Email Entered
+2019-08-11 23:35:08,369 - nopCommerce -INFO - Password Entered
+2019-08-11 23:35:15,358 - nopCommerce -INFO - Submit button clicked
+2019-08-11 23:35:15,373 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 23:35:15,375 - nopCommerce -INFO - Test Passed
+2019-08-11 23:35:15,599 - nopCommerce -INFO - All windows closed
+2019-08-11 23:35:29,794 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:35:34,587 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:35:55,006 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:35:55,162 - nopCommerce -INFO - All windows closed
+2019-08-11 23:36:16,511 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:36:28,278 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:36:40,982 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:36:42,963 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:36:45,511 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:36:46,260 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:36:46,609 - nopCommerce -INFO - Password Entered
+2019-08-11 23:36:46,695 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:36:46,956 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:36:47,029 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:36:47,155 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:36:47,381 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:36:47,451 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:36:47,754 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:36:47,834 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:36:50,271 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:36:50,715 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:36:53,584 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:36:53,631 - nopCommerce -INFO - Test passed
+2019-08-11 23:36:53,633 - nopCommerce -INFO - All windows closed
+2019-08-11 23:39:31,512 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:39:45,609 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:39:47,755 - nopCommerce -INFO - Email Entered
+2019-08-11 23:39:47,958 - nopCommerce -INFO - Password Entered
+2019-08-11 23:40:02,794 - nopCommerce -INFO - Submit button clicked
+2019-08-11 23:40:02,913 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 23:40:02,916 - nopCommerce -INFO - Test Passed
+2019-08-11 23:40:04,519 - nopCommerce -INFO - All windows closed
+2019-08-11 23:40:25,338 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:40:31,542 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:40:49,585 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:40:50,106 - nopCommerce -INFO - All windows closed
+2019-08-11 23:41:01,105 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:41:18,795 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:41:28,843 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:41:34,655 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:41:38,942 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:41:40,599 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:41:40,707 - nopCommerce -INFO - Password Entered
+2019-08-11 23:41:40,786 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:41:40,881 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:41:40,972 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:41:41,112 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:41:41,753 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:41:41,830 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:41:41,928 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:41:41,966 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:41:43,146 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:41:43,304 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:41:46,102 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:41:47,368 - nopCommerce -INFO - All windows closed
+2019-08-11 23:45:53,115 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:45:56,621 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:45:59,361 - nopCommerce -INFO - Email Entered
+2019-08-11 23:45:59,441 - nopCommerce -INFO - Password Entered
+2019-08-11 23:46:08,006 - nopCommerce -INFO - Submit button clicked
+2019-08-11 23:46:08,060 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-11 23:46:08,063 - nopCommerce -INFO - Test Passed
+2019-08-11 23:46:08,192 - nopCommerce -INFO - All windows closed
+2019-08-11 23:46:23,201 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:46:30,549 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:46:52,878 - nopCommerce -INFO - DataDriven Test paased
+2019-08-11 23:46:53,670 - nopCommerce -INFO - All windows closed
+2019-08-11 23:47:05,482 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-11 23:47:13,573 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-11 23:47:27,893 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-11 23:47:32,580 - nopCommerce -INFO - Customer Link Clicked
+2019-08-11 23:47:34,998 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-11 23:47:37,957 - nopCommerce -INFO - Random Email Entered
+2019-08-11 23:47:38,084 - nopCommerce -INFO - Password Entered
+2019-08-11 23:47:38,168 - nopCommerce -INFO - First Name Entered
+2019-08-11 23:47:38,260 - nopCommerce -INFO - Last Name entered
+2019-08-11 23:47:38,337 - nopCommerce -INFO - Gender Entered
+2019-08-11 23:47:38,568 - nopCommerce -INFO - Date of Birth Entered
+2019-08-11 23:47:38,736 - nopCommerce -INFO - Company Name Entered
+2019-08-11 23:47:38,822 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-11 23:47:39,124 - nopCommerce -INFO - Default role deleted
+2019-08-11 23:47:39,165 - nopCommerce -INFO - Customer role Entered
+2019-08-11 23:47:40,267 - nopCommerce -INFO - Vendor ID selected
+2019-08-11 23:47:40,524 - nopCommerce -INFO - Comment given by Admin
+2019-08-11 23:47:42,710 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-11 23:47:46,152 - nopCommerce -INFO - All windows closed
+2019-08-12 01:02:40,297 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:02:43,733 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:02:45,122 - nopCommerce -INFO - Email Entered
+2019-08-12 01:02:45,203 - nopCommerce -INFO - Password Entered
+2019-08-12 01:02:59,052 - nopCommerce -INFO - Submit button clicked
+2019-08-12 01:02:59,187 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 01:02:59,193 - nopCommerce -INFO - Test Passed
+2019-08-12 01:02:59,252 - nopCommerce -INFO - All windows closed
+2019-08-12 01:03:03,745 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:03:10,069 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:03:18,433 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 01:03:18,528 - nopCommerce -INFO - All windows closed
+2019-08-12 01:03:23,149 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:03:31,234 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:03:38,389 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 01:03:42,126 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 01:03:46,479 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 01:03:46,689 - nopCommerce -INFO - Random Email Entered
+2019-08-12 01:03:46,826 - nopCommerce -INFO - Password Entered
+2019-08-12 01:03:47,003 - nopCommerce -INFO - First Name Entered
+2019-08-12 01:03:47,096 - nopCommerce -INFO - Last Name entered
+2019-08-12 01:03:47,191 - nopCommerce -INFO - Gender Entered
+2019-08-12 01:03:47,317 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 01:03:47,447 - nopCommerce -INFO - Company Name Entered
+2019-08-12 01:03:47,523 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 01:03:47,619 - nopCommerce -INFO - Default role deleted
+2019-08-12 01:03:47,625 - nopCommerce -INFO - All windows closed
+2019-08-12 01:40:10,186 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:40:12,100 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:40:13,837 - nopCommerce -INFO - Email Entered
+2019-08-12 01:40:13,918 - nopCommerce -INFO - Password Entered
+2019-08-12 01:40:23,215 - nopCommerce -INFO - Submit button clicked
+2019-08-12 01:40:23,239 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 01:40:23,242 - nopCommerce -INFO - Test Passed
+2019-08-12 01:40:23,281 - nopCommerce -INFO - All windows closed
+2019-08-12 01:40:49,996 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:41:01,763 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:41:26,496 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 01:41:28,138 - nopCommerce -INFO - All windows closed
+2019-08-12 01:41:49,129 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 01:41:54,319 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 01:42:01,545 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 01:42:06,050 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 01:42:13,536 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 01:42:15,607 - nopCommerce -INFO - Random Email Entered
+2019-08-12 01:42:15,711 - nopCommerce -INFO - Password Entered
+2019-08-12 01:42:15,803 - nopCommerce -INFO - First Name Entered
+2019-08-12 01:42:15,894 - nopCommerce -INFO - Last Name entered
+2019-08-12 01:42:15,964 - nopCommerce -INFO - Gender Entered
+2019-08-12 01:42:16,088 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 01:42:16,286 - nopCommerce -INFO - Company Name Entered
+2019-08-12 01:42:16,357 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 01:42:16,443 - nopCommerce -INFO - Default role deleted
+2019-08-12 01:42:16,482 - nopCommerce -INFO - Customer role Entered
+2019-08-12 01:42:19,810 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 01:42:22,197 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 01:42:24,983 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 01:42:25,272 - nopCommerce -INFO - Test passed
+2019-08-12 01:42:25,273 - nopCommerce -INFO - All windows closed
+2019-08-12 10:04:57,274 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 10:05:06,016 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 10:05:07,826 - nopCommerce -INFO - Email Entered
+2019-08-12 10:05:07,906 - nopCommerce -INFO - Password Entered
+2019-08-12 10:05:16,174 - nopCommerce -INFO - Submit button clicked
+2019-08-12 10:05:16,181 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 10:05:16,184 - nopCommerce -INFO - Test Passed
+2019-08-12 10:05:16,207 - nopCommerce -INFO - All windows closed
+2019-08-12 10:05:38,629 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 10:05:46,040 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 10:05:56,247 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 10:05:56,883 - nopCommerce -INFO - All windows closed
+2019-08-12 10:06:01,769 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 10:06:05,674 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 10:06:11,438 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 10:06:14,004 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 10:06:16,412 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 10:06:17,563 - nopCommerce -INFO - Random Email Entered
+2019-08-12 10:06:17,676 - nopCommerce -INFO - Password Entered
+2019-08-12 10:06:17,765 - nopCommerce -INFO - First Name Entered
+2019-08-12 10:06:17,871 - nopCommerce -INFO - Last Name entered
+2019-08-12 10:06:17,962 - nopCommerce -INFO - Gender Entered
+2019-08-12 10:06:18,092 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 10:06:18,319 - nopCommerce -INFO - Company Name Entered
+2019-08-12 10:06:18,431 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 10:06:18,530 - nopCommerce -INFO - Default role deleted
+2019-08-12 10:06:18,622 - nopCommerce -INFO - All windows closed
+2019-08-12 11:33:26,057 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:33:32,526 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:33:35,771 - nopCommerce -INFO - Email Entered
+2019-08-12 11:33:35,886 - nopCommerce -INFO - Password Entered
+2019-08-12 11:33:42,476 - nopCommerce -INFO - Submit button clicked
+2019-08-12 11:33:42,540 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 11:33:42,642 - nopCommerce -INFO - Test Passed
+2019-08-12 11:33:42,715 - nopCommerce -INFO - All windows closed
+2019-08-12 11:33:51,885 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:34:08,359 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:34:28,376 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 11:34:28,753 - nopCommerce -INFO - All windows closed
+2019-08-12 11:34:45,095 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:35:02,524 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:35:19,032 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 11:35:23,208 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 11:35:24,964 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 11:35:25,759 - nopCommerce -INFO - All windows closed
+2019-08-12 11:36:32,703 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:36:43,915 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:36:45,787 - nopCommerce -INFO - Email Entered
+2019-08-12 11:36:45,866 - nopCommerce -INFO - Password Entered
+2019-08-12 11:36:50,811 - nopCommerce -INFO - Submit button clicked
+2019-08-12 11:36:50,836 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 11:36:50,857 - nopCommerce -INFO - Test Passed
+2019-08-12 11:36:51,048 - nopCommerce -INFO - All windows closed
+2019-08-12 11:37:06,130 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:37:14,689 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:38:03,768 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 11:38:04,082 - nopCommerce -INFO - All windows closed
+2019-08-12 11:38:22,855 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:38:30,340 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:38:38,099 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 11:38:45,174 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 11:38:47,456 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 11:38:48,125 - nopCommerce -INFO - All windows closed
+2019-08-12 11:48:41,702 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:48:45,845 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:48:47,884 - nopCommerce -INFO - Email Entered
+2019-08-12 11:48:47,967 - nopCommerce -INFO - Password Entered
+2019-08-12 11:48:52,878 - nopCommerce -INFO - Submit button clicked
+2019-08-12 11:48:52,908 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 11:48:52,911 - nopCommerce -INFO - Test Passed
+2019-08-12 11:48:55,061 - nopCommerce -INFO - All windows closed
+2019-08-12 11:48:58,075 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:49:00,900 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:49:08,529 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 11:49:10,797 - nopCommerce -INFO - All windows closed
+2019-08-12 11:49:13,613 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:49:16,168 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:49:24,601 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 11:49:27,259 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 11:49:28,521 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 11:49:28,732 - nopCommerce -INFO - Random Email Entered
+2019-08-12 11:49:28,858 - nopCommerce -INFO - Password Entered
+2019-08-12 11:49:28,950 - nopCommerce -INFO - First Name Entered
+2019-08-12 11:49:29,047 - nopCommerce -INFO - Last Name entered
+2019-08-12 11:49:29,132 - nopCommerce -INFO - Gender Entered
+2019-08-12 11:49:29,260 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 11:49:29,403 - nopCommerce -INFO - Company Name Entered
+2019-08-12 11:49:29,481 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 11:49:29,570 - nopCommerce -INFO - Default role deleted
+2019-08-12 11:49:29,644 - nopCommerce -INFO - Customer role Entered
+2019-08-12 11:49:29,790 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 11:49:29,954 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 11:49:31,578 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 11:49:31,728 - nopCommerce -INFO - All windows closed
+2019-08-12 11:51:33,159 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:51:38,449 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:51:39,812 - nopCommerce -INFO - Email Entered
+2019-08-12 11:51:39,898 - nopCommerce -INFO - Password Entered
+2019-08-12 11:51:44,126 - nopCommerce -INFO - Submit button clicked
+2019-08-12 11:51:44,196 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 11:51:44,198 - nopCommerce -INFO - Test Passed
+2019-08-12 11:51:44,229 - nopCommerce -INFO - All windows closed
+2019-08-12 11:51:47,060 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:51:51,657 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:51:59,817 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 11:51:59,930 - nopCommerce -INFO - All windows closed
+2019-08-12 11:52:03,058 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:52:07,804 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:52:13,011 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 11:52:14,472 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 11:52:15,750 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 11:52:15,940 - nopCommerce -INFO - Random Email Entered
+2019-08-12 11:52:16,053 - nopCommerce -INFO - Password Entered
+2019-08-12 11:52:16,139 - nopCommerce -INFO - First Name Entered
+2019-08-12 11:52:16,293 - nopCommerce -INFO - Last Name entered
+2019-08-12 11:52:16,371 - nopCommerce -INFO - Gender Entered
+2019-08-12 11:52:16,506 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 11:52:16,633 - nopCommerce -INFO - Company Name Entered
+2019-08-12 11:52:16,705 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 11:52:16,876 - nopCommerce -INFO - Default role deleted
+2019-08-12 11:52:16,954 - nopCommerce -INFO - Customer role Entered
+2019-08-12 11:52:17,083 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 11:52:17,243 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 11:52:18,679 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 11:52:18,734 - nopCommerce -INFO - All windows closed
+2019-08-12 11:59:44,969 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 11:59:48,829 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 11:59:50,202 - nopCommerce -INFO - Email Entered
+2019-08-12 11:59:50,284 - nopCommerce -INFO - Password Entered
+2019-08-12 11:59:55,206 - nopCommerce -INFO - Submit button clicked
+2019-08-12 11:59:55,232 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 11:59:55,238 - nopCommerce -INFO - Test Passed
+2019-08-12 11:59:55,264 - nopCommerce -INFO - All windows closed
+2019-08-12 11:59:58,270 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:00:02,277 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:00:08,226 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 12:00:08,312 - nopCommerce -INFO - All windows closed
+2019-08-12 12:00:13,380 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:00:20,599 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:00:27,372 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 12:00:28,764 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 12:00:31,944 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 12:00:32,165 - nopCommerce -INFO - Random Email Entered
+2019-08-12 12:00:32,299 - nopCommerce -INFO - Password Entered
+2019-08-12 12:00:32,403 - nopCommerce -INFO - First Name Entered
+2019-08-12 12:00:32,530 - nopCommerce -INFO - Last Name entered
+2019-08-12 12:00:32,622 - nopCommerce -INFO - Gender Entered
+2019-08-12 12:00:32,760 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 12:00:32,890 - nopCommerce -INFO - Company Name Entered
+2019-08-12 12:00:32,970 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 12:00:33,088 - nopCommerce -INFO - Default role deleted
+2019-08-12 12:00:33,130 - nopCommerce -INFO - Customer role Entered
+2019-08-12 12:00:33,260 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 12:00:33,430 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 12:00:35,505 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 12:00:35,559 - nopCommerce -INFO - Test passed
+2019-08-12 12:00:35,563 - nopCommerce -INFO - All windows closed
+2019-08-12 12:07:18,082 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:07:21,832 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:07:23,121 - nopCommerce -INFO - Email Entered
+2019-08-12 12:07:23,197 - nopCommerce -INFO - Password Entered
+2019-08-12 12:07:27,536 - nopCommerce -INFO - Submit button clicked
+2019-08-12 12:07:27,554 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 12:07:27,559 - nopCommerce -INFO - Test Passed
+2019-08-12 12:07:29,916 - nopCommerce -INFO - All windows closed
+2019-08-12 12:07:32,667 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:07:35,271 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:07:41,582 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 12:07:43,730 - nopCommerce -INFO - All windows closed
+2019-08-12 12:07:46,434 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:07:50,105 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:07:54,915 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 12:07:56,230 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 12:07:57,362 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 12:07:57,551 - nopCommerce -INFO - Random Email Entered
+2019-08-12 12:07:57,662 - nopCommerce -INFO - Password Entered
+2019-08-12 12:07:57,746 - nopCommerce -INFO - First Name Entered
+2019-08-12 12:07:57,836 - nopCommerce -INFO - Last Name entered
+2019-08-12 12:07:57,931 - nopCommerce -INFO - Gender Entered
+2019-08-12 12:07:58,043 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 12:07:58,207 - nopCommerce -INFO - Company Name Entered
+2019-08-12 12:07:58,280 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 12:07:58,377 - nopCommerce -INFO - Default role deleted
+2019-08-12 12:07:58,413 - nopCommerce -INFO - Customer role Entered
+2019-08-12 12:07:58,538 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 12:07:58,686 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 12:08:00,313 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 12:08:00,384 - nopCommerce -INFO - Test passed
+2019-08-12 12:08:00,554 - nopCommerce -INFO - All windows closed
+2019-08-12 12:34:54,102 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:34:59,349 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:35:00,632 - nopCommerce -INFO - Email Entered
+2019-08-12 12:35:00,711 - nopCommerce -INFO - Password Entered
+2019-08-12 12:35:04,675 - nopCommerce -INFO - Submit button clicked
+2019-08-12 12:35:04,752 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 12:35:04,754 - nopCommerce -INFO - Test Passed
+2019-08-12 12:35:06,828 - nopCommerce -INFO - All windows closed
+2019-08-12 12:35:10,328 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:35:13,576 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:35:25,448 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 12:35:28,081 - nopCommerce -INFO - All windows closed
+2019-08-12 12:35:31,808 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 12:35:35,948 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 12:35:41,874 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 12:35:46,631 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 12:35:50,793 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 12:35:51,168 - nopCommerce -INFO - Random Email Entered
+2019-08-12 12:35:51,655 - nopCommerce -INFO - Password Entered
+2019-08-12 12:35:51,740 - nopCommerce -INFO - First Name Entered
+2019-08-12 12:35:51,828 - nopCommerce -INFO - Last Name entered
+2019-08-12 12:35:51,907 - nopCommerce -INFO - Gender Entered
+2019-08-12 12:35:52,030 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 12:35:52,156 - nopCommerce -INFO - Company Name Entered
+2019-08-12 12:35:52,241 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 12:35:52,610 - nopCommerce -INFO - Default role deleted
+2019-08-12 12:35:52,652 - nopCommerce -INFO - Customer role Entered
+2019-08-12 12:35:52,816 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 12:35:53,525 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 12:35:56,881 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 12:35:56,945 - nopCommerce -INFO - Test passed
+2019-08-12 12:35:57,203 - nopCommerce -INFO - All windows closed
+2019-08-12 15:04:01,814 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 15:04:12,406 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 15:04:14,837 - nopCommerce -INFO - Email Entered
+2019-08-12 15:04:14,936 - nopCommerce -INFO - Password Entered
+2019-08-12 15:04:21,232 - nopCommerce -INFO - Submit button clicked
+2019-08-12 15:04:21,273 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 15:04:21,275 - nopCommerce -INFO - Test Passed
+2019-08-12 15:04:21,391 - nopCommerce -INFO - All windows closed
+2019-08-12 15:04:26,589 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 15:04:31,636 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 15:04:42,029 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 15:04:44,712 - nopCommerce -INFO - All windows closed
+2019-08-12 15:04:52,518 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 15:04:55,545 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 15:05:00,400 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 15:05:04,220 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 15:05:07,134 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 15:05:07,393 - nopCommerce -INFO - Random Email Entered
+2019-08-12 15:05:07,522 - nopCommerce -INFO - Password Entered
+2019-08-12 15:05:07,594 - nopCommerce -INFO - First Name Entered
+2019-08-12 15:05:07,709 - nopCommerce -INFO - Last Name entered
+2019-08-12 15:05:07,791 - nopCommerce -INFO - Gender Entered
+2019-08-12 15:05:07,941 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 15:05:08,129 - nopCommerce -INFO - Company Name Entered
+2019-08-12 15:05:08,209 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 15:05:08,318 - nopCommerce -INFO - Default role deleted
+2019-08-12 15:05:08,360 - nopCommerce -INFO - Customer role Entered
+2019-08-12 15:05:08,565 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 15:05:08,770 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 15:05:12,274 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 15:05:12,333 - nopCommerce -INFO - Test passed
+2019-08-12 15:05:12,477 - nopCommerce -INFO - All windows closed
+2019-08-12 18:02:19,032 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:02:27,829 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:02:30,265 - nopCommerce -INFO - All windows closed
+2019-08-12 18:02:39,548 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:02:48,757 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:02:59,053 - nopCommerce -INFO - All windows closed
+2019-08-12 18:03:03,891 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:03:13,157 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:03:14,542 - nopCommerce -INFO - All windows closed
+2019-08-12 18:09:18,414 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:09:43,315 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:09:44,901 - nopCommerce -INFO - Email Entered
+2019-08-12 18:09:45,055 - nopCommerce -INFO - Password Entered
+2019-08-12 18:10:12,624 - nopCommerce -INFO - Submit button clicked
+2019-08-12 18:10:12,633 - nopCommerce -INFO - Dashboard / nopCommerce administration
+2019-08-12 18:10:12,635 - nopCommerce -INFO - Test Passed
+2019-08-12 18:10:14,702 - nopCommerce -INFO - All windows closed
+2019-08-12 18:10:19,004 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:10:31,021 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:10:47,282 - nopCommerce -INFO - DataDriven Test paased
+2019-08-12 18:10:47,525 - nopCommerce -INFO - All windows closed
+2019-08-12 18:10:51,362 - nopCommerce -INFO -  Chrome Browser launched
+2019-08-12 18:10:56,094 - nopCommerce -INFO - Navigate to http://admin-demo.nopcommerce.com
+2019-08-12 18:11:09,581 - nopCommerce -INFO - Customer DropDown Linked Clicked
+2019-08-12 18:11:13,356 - nopCommerce -INFO - Customer Link Clicked
+2019-08-12 18:11:17,481 - nopCommerce -INFO - Add new Customer button Clicked
+2019-08-12 18:11:17,899 - nopCommerce -INFO - Random Email Entered
+2019-08-12 18:11:18,138 - nopCommerce -INFO - Password Entered
+2019-08-12 18:11:18,232 - nopCommerce -INFO - First Name Entered
+2019-08-12 18:11:18,314 - nopCommerce -INFO - Last Name entered
+2019-08-12 18:11:18,390 - nopCommerce -INFO - Gender Entered
+2019-08-12 18:11:18,517 - nopCommerce -INFO - Date of Birth Entered
+2019-08-12 18:11:18,651 - nopCommerce -INFO - Company Name Entered
+2019-08-12 18:11:18,740 - nopCommerce -INFO - Tax Exemption ChickBox Ticked
+2019-08-12 18:11:18,849 - nopCommerce -INFO - Default role deleted
+2019-08-12 18:11:18,890 - nopCommerce -INFO - Customer role Entered
+2019-08-12 18:11:19,069 - nopCommerce -INFO - Vendor ID selected
+2019-08-12 18:11:19,948 - nopCommerce -INFO - Comment given by Admin
+2019-08-12 18:11:22,822 - nopCommerce -INFO - New customer Save button Entered to save the Record
+2019-08-12 18:11:22,874 - nopCommerce -INFO - Test passed
+2019-08-12 18:11:23,115 - nopCommerce -INFO - All windows closed
